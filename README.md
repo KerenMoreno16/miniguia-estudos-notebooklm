@@ -2,7 +2,7 @@
 
 ## Contexto e Objetivos
 Este projeto faz parte do Desafio da DIO e tem como objetivo explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.  
-O tema escolhido para este caderno temático é **Apredizagem de Análise de Dados**.  
+O tema escolhido para este caderno temático é **Aprendendo Análise de Dados**.  
 
 **Objetivos de estudo:**
 - Compreender os principais conceitos relacionados ao tema.

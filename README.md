@@ -28,6 +28,9 @@ Durante o processo, foram elaboradas perguntas estratégicas e variações de pr
 - "Qual a sequência de ferramentas ideal para aprender em 2026?"
 - "Como a inteligência artificial impacta a rotina do analista?"
 - "Quais projetos de portfólio são mais valorizados pelos recrutadores?"
+- "Erros comuns na análise, principais armadilhas e como evitá-las."
+- "Storytelling com dados, como transformar números em narrativas visuais.
+- "Ferramentas de análise de dados, resumo das ferramentas mais usadas (Excel, SQL, Python, Power BI).
 
 **Dificuldades encontradas:**
 - Ajustar o nível de profundidade das respostas.
@@ -38,9 +41,9 @@ Durante o processo, foram elaboradas perguntas estratégicas e variações de pr
 ## Miniguia de Estudo (Entrega Final)
 
 ### Resumos Estruturados
-- **Tópico 1: Ferramentas de análise de dados** resumo das ferramentas mais usadas (Excel, SQL, Python, Power BI).
-- **Tópico 2: Storytelling com dados** como transformar números em narrativas visuais.
-- **Tópico 3: Erros comuns na análise** principais armadilhas e como evitá-las.
+- **Storytelling e Comunicação:** Mais do que gerar dashboards, o analista sênior precisa dominar Data Storytelling, transformando métricas em narrativas que influenciam decisões estratégicas. Isso envolve design visual, clareza e adaptação ao público-alvo.
+- **Qualidade e Observabilidade:** A confiabilidade dos dados é garantida por práticas de Data Observability, que monitoram pipelines, detectam anomalias e asseguram que os insights sejam consistentes e acionáveis.
+- **Ferramentas e Pipelines:** A análise de dados não se limita a ferramentas tradicionais como Excel ou SQL. Hoje, pipelines robustos em Python (com Pandas, PySpark) e integrações com cloud platforms (AWS, Azure, GCP) são essenciais para lidar com dados em tempo real e em larga escala.
 
 ### Glossário
 - **ETL vs. ELT:**  diferença entre extrair-transformar-carregar (ETL) e extrair-carregar-transformar (ELT), destacando quando aplicar cada estratégia em arquiteturas modernas.
